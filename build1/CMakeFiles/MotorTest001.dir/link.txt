@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -rdynamic CMakeFiles/MotorTest001.dir/MotorControl/MotorTestYago.cpp.o -o MotorTest001   -L/home/name/unitree_actuator_sdk/TunnelingCartCode/lib  -Wl,-rpath,/home/name/unitree_actuator_sdk/TunnelingCartCode/lib -lUnitreeMotorSDK_Arm64 

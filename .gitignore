@@ -1,0 +1,13 @@
+# Local CMake builds
+/build/
+/build1/
+
+# Standalone hardware test executables
+/GPIO_exp/gpio_test
+/MotorControl/DistanceSensor
+/MotorControl/LATimed
+/MotorControl/LinearFinal1
+/MotorControl/LinearFinal2
+
+# Generated Python bindings (the Unitree SDK libraries are tracked)
+/lib/unitree_actuator_sdk*.so

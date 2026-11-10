@@ -1,7 +1,0 @@
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/CMakeFiles/MotorTest000.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/CMakeFiles/MotorTest001.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/CMakeFiles/unitree_actuator_sdk.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/CMakeFiles/edit_cache.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/CMakeFiles/rebuild_cache.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/thirdparty/pybind11/CMakeFiles/edit_cache.dir
-/home/name/unitree_actuator_sdk/TunnelingCartCode/build1/thirdparty/pybind11/CMakeFiles/rebuild_cache.dir
